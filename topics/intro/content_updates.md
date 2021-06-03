@@ -30,6 +30,9 @@ SDK Setup Assistance
 Unified AST 
 : [Unified Abstract Syntax Tree (UAST)](uast.md) allows providing features that will work across all supported JVM languages (Java, Kotlin, Scala, Groovy).
 
+Run Configurations
+: Updated the [run configuration tutorial](run_configurations.md#implement-configurationtype) to show usages of the newer APIs available in the IntelliJ Platform SDK.
+
 ## 2020
                   
 ### December-20
